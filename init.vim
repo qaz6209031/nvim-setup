@@ -33,6 +33,9 @@ Plug 'nvim-telescope/telescope.nvim'
 
 " File Explore
 Plug 'scrooloose/nerdtree'
+" Vim game 
+Plug 'ThePrimeagen/vim-be-good'
+
 call plug#end()
 
 colorscheme gruvbox
